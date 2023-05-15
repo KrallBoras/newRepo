@@ -9,7 +9,7 @@
   "author": "Krall",
   "license": "ISC",
   "dependencies": {
-    "krall-test": "^1.0.0",
+    "krall-npmtest": "^1.0.1",
     "react-dom": "^18.2.0"
   }
 }
