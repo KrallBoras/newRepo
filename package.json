@@ -9,6 +9,7 @@
   "author": "Krall",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^9.22.0",
     "krall-npmtest": "^1.0.1",
     "react-dom": "^18.2.0"
   }
